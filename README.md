@@ -27,5 +27,9 @@ Implementation details have been explained in detail in ProjectReport.pdf
 <b>GPS Tracking and Sharing</b>
 This part has been integrated in android application.
 
+<b>Team Members</b>
+1. Pratham Gupta
+2. Milan Chowdhary
+
 References
 https://pjreddie.com/darknet/yolo/
